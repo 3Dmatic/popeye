@@ -1,0 +1,6 @@
+INSTALANDO GIT EN UBUNTU
+
+sudo apt-get install git
+git config --global user.name "NombreDeUsuario"
+git config --global user.email "lamenteel@gmail.com"
+git clone https://github.com/3Dmatic/popeye.git
