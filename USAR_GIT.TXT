@@ -5,7 +5,10 @@ git config --global user.name "NombreDeUsuario"
 git config --global user.email "lamenteel@gmail.com"
 git clone https://github.com/3Dmatic/popeye.git
 
-SUBIR CAMBIOS
+SUBIR CAMBIOS SCRIPT
+./guardar.sh
+
+SUBIR CAMBIOS EN MANUAL
 En git gui pulsar en el cuadro superior en cada archivo modificado
 hacer comentarios sobre los cambios y pulsar el boton commit
 cerrar git gui
